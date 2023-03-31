@@ -1,0 +1,1869 @@
+graph {
+	subgraph cluster_0 {
+		label=0
+		fontsize=10
+		style=filled
+		color=white
+		node0 [label="" image="img/Slide1.jpeg" shape=none]
+		pos="20.455896377563477,1.0444190502166748!"
+	}
+	subgraph cluster_1 {
+		label=1
+		fontsize=10
+		style=filled
+		color=white
+		node1 [label="" image="img/Slide2.jpeg" shape=none]
+		pos="-79.65126037597656,-41.301025390625!"
+	}
+	subgraph cluster_2 {
+		label=2
+		fontsize=10
+		style=filled
+		color=white
+		node2 [label="" image="img/Slide3.jpeg" shape=none]
+		pos="-82.67183685302734,-54.5543327331543!"
+	}
+	subgraph cluster_3 {
+		label=3
+		fontsize=10
+		style=filled
+		color=white
+		node3 [label="" image="img/Slide4.jpeg" shape=none]
+		pos="69.19567108154297,62.68048095703125!"
+	}
+	subgraph cluster_4 {
+		label=4
+		fontsize=10
+		style=filled
+		color=white
+		node4 [label="" image="img/Slide5.jpeg" shape=none]
+		pos="-67.78833770751953,-52.28976821899414!"
+	}
+	subgraph cluster_5 {
+		label=5
+		fontsize=10
+		style=filled
+		color=white
+		node5 [label="" image="img/Slide6.jpeg" shape=none]
+		pos="46.542625427246094,33.451881408691406!"
+	}
+	subgraph cluster_6 {
+		label=6
+		fontsize=10
+		style=filled
+		color=white
+		node6 [label="" image="img/Slide7.jpeg" shape=none]
+		pos="-70.84552001953125,-66.22825622558594!"
+	}
+	subgraph cluster_7 {
+		label=7
+		fontsize=10
+		style=filled
+		color=white
+		node7 [label="" image="img/Slide8.jpeg" shape=none]
+		pos="50.273929595947266,53.076019287109375!"
+	}
+	subgraph cluster_8 {
+		label=8
+		fontsize=10
+		style=filled
+		color=white
+		node8 [label="" image="img/Slide9.jpeg" shape=none]
+		pos="34.64089584350586,54.80470275878906!"
+	}
+	subgraph cluster_9 {
+		label=9
+		fontsize=10
+		style=filled
+		color=white
+		node9 [label="" image="img/Slide10.jpeg" shape=none]
+		pos="-17.35702896118164,-16.798913955688477!"
+	}
+	subgraph cluster_10 {
+		label=10
+		fontsize=10
+		style=filled
+		color=white
+		node10 [label="" image="img/Slide11.jpeg" shape=none]
+		pos="-52.33134841918945,-73.22740936279297!"
+	}
+	subgraph cluster_11 {
+		label=11
+		fontsize=10
+		style=filled
+		color=white
+		node11 [label="" image="img/Slide12.jpeg" shape=none]
+		pos="32.12374496459961,27.402212142944336!"
+	}
+	subgraph cluster_12 {
+		label=12
+		fontsize=10
+		style=filled
+		color=white
+		node12 [label="" image="img/Slide13.jpeg" shape=none]
+		pos="45.46284103393555,75.04854583740234!"
+	}
+	subgraph cluster_13 {
+		label=13
+		fontsize=10
+		style=filled
+		color=white
+		node13 [label="" image="img/Slide14.jpeg" shape=none]
+		pos="46.58897399902344,102.17704010009766!"
+	}
+	subgraph cluster_14 {
+		label=14
+		fontsize=10
+		style=filled
+		color=white
+		node14 [label="" image="img/Slide15.jpeg" shape=none]
+		pos="19.50946617126465,89.66230773925781!"
+	}
+	subgraph cluster_15 {
+		label=15
+		fontsize=10
+		style=filled
+		color=white
+		node15 [label="" image="img/Slide16.jpeg" shape=none]
+		pos="-9.774147987365723,72.36991119384766!"
+	}
+	subgraph cluster_16 {
+		label=16
+		fontsize=10
+		style=filled
+		color=white
+		node16 [label="" image="img/Slide17.jpeg" shape=none]
+		pos="-45.5567741394043,-87.89602661132812!"
+	}
+	subgraph cluster_17 {
+		label=17
+		fontsize=10
+		style=filled
+		color=white
+		node17 [label="" image="img/Slide18.jpeg" shape=none]
+		pos="57.22189712524414,112.46952819824219!"
+	}
+	subgraph cluster_18 {
+		label=18
+		fontsize=10
+		style=filled
+		color=white
+		node18 [label="" image="img/Slide19.jpeg" shape=none]
+		pos="25.009937286376953,74.0255355834961!"
+	}
+	subgraph cluster_19 {
+		label=19
+		fontsize=10
+		style=filled
+		color=white
+		node19 [label="" image="img/Slide20.jpeg" shape=none]
+		pos="-7.342013359069824,2.8025143146514893!"
+	}
+	subgraph cluster_20 {
+		label=20
+		fontsize=10
+		style=filled
+		color=white
+		node20 [label="" image="img/Slide21.jpeg" shape=none]
+		pos="71.65961456298828,102.79443359375!"
+	}
+	subgraph cluster_21 {
+		label=21
+		fontsize=10
+		style=filled
+		color=white
+		node21 [label="" image="img/Slide22.jpeg" shape=none]
+		pos="63.242828369140625,93.76864624023438!"
+	}
+	subgraph cluster_22 {
+		label=22
+		fontsize=10
+		style=filled
+		color=white
+		node22 [label="" image="img/Slide23.jpeg" shape=none]
+		pos="-34.66860580444336,-20.614675521850586!"
+	}
+	subgraph cluster_23 {
+		label=23
+		fontsize=10
+		style=filled
+		color=white
+		node23 [label="" image="img/Slide24.jpeg" shape=none]
+		pos="84.88976287841797,-19.40985870361328!"
+	}
+	subgraph cluster_24 {
+		label=24
+		fontsize=10
+		style=filled
+		color=white
+		node24 [label="" image="img/Slide25.jpeg" shape=none]
+		pos="76.33952331542969,-8.03846263885498!"
+	}
+	subgraph cluster_25 {
+		label=25
+		fontsize=10
+		style=filled
+		color=white
+		node25 [label="" image="img/Slide26.jpeg" shape=none]
+		pos="70.56329345703125,-20.949417114257812!"
+	}
+	subgraph cluster_26 {
+		label=26
+		fontsize=10
+		style=filled
+		color=white
+		node26 [label="" image="img/Slide27.jpeg" shape=none]
+		pos="-32.05757522583008,-80.79918670654297!"
+	}
+	subgraph cluster_27 {
+		label=27
+		fontsize=10
+		style=filled
+		color=white
+		node27 [label="" image="img/Slide28.jpeg" shape=none]
+		pos="35.15513229370117,10.049681663513184!"
+	}
+	subgraph cluster_28 {
+		label=28
+		fontsize=10
+		style=filled
+		color=white
+		node28 [label="" image="img/Slide29.jpeg" shape=none]
+		pos="-34.56431198120117,-66.39513397216797!"
+	}
+	subgraph cluster_29 {
+		label=29
+		fontsize=10
+		style=filled
+		color=white
+		node29 [label="" image="img/Slide30.jpeg" shape=none]
+		pos="67.41218566894531,33.80933380126953!"
+	}
+	subgraph cluster_30 {
+		label=30
+		fontsize=10
+		style=filled
+		color=white
+		node30 [label="" image="img/Slide31.jpeg" shape=none]
+		pos="-7.636691093444824,-78.18467712402344!"
+	}
+	subgraph cluster_31 {
+		label=31
+		fontsize=10
+		style=filled
+		color=white
+		node31 [label="" image="img/Slide32.jpeg" shape=none]
+		pos="-10.582276344299316,-52.76530075073242!"
+	}
+	subgraph cluster_32 {
+		label=32
+		fontsize=10
+		style=filled
+		color=white
+		node32 [label="" image="img/Slide33.jpeg" shape=none]
+		pos="-8.16433048248291,-93.16828155517578!"
+	}
+	subgraph cluster_33 {
+		label=33
+		fontsize=10
+		style=filled
+		color=white
+		node33 [label="" image="img/Slide34.jpeg" shape=none]
+		pos="43.427215576171875,-8.473991394042969!"
+	}
+	subgraph cluster_34 {
+		label=34
+		fontsize=10
+		style=filled
+		color=white
+		node34 [label="" image="img/Slide35.jpeg" shape=none]
+		pos="28.016462326049805,-55.68510818481445!"
+	}
+	subgraph cluster_35 {
+		label=35
+		fontsize=10
+		style=filled
+		color=white
+		node35 [label="" image="img/Slide36.jpeg" shape=none]
+		pos="4.145653247833252,-87.69257354736328!"
+	}
+	subgraph cluster_36 {
+		label=36
+		fontsize=10
+		style=filled
+		color=white
+		node36 [label="" image="img/Slide37.jpeg" shape=none]
+		pos="92.0003662109375,34.20260238647461!"
+	}
+	subgraph cluster_37 {
+		label=37
+		fontsize=10
+		style=filled
+		color=white
+		node37 [label="" image="img/Slide38.jpeg" shape=none]
+		pos="10.327752113342285,-43.34992980957031!"
+	}
+	subgraph cluster_38 {
+		label=38
+		fontsize=10
+		style=filled
+		color=white
+		node38 [label="" image="img/Slide39.jpeg" shape=none]
+		pos="-3.9096007347106934,-23.306913375854492!"
+	}
+	subgraph cluster_39 {
+		label=39
+		fontsize=10
+		style=filled
+		color=white
+		node39 [label="" image="img/Slide40.jpeg" shape=none]
+		pos="5.282098770141602,-10.558801651000977!"
+	}
+	subgraph cluster_40 {
+		label=40
+		fontsize=10
+		style=filled
+		color=white
+		node40 [label="" image="img/Slide41.jpeg" shape=none]
+		pos="22.859743118286133,-20.72398567199707!"
+	}
+	subgraph cluster_41 {
+		label=41
+		fontsize=10
+		style=filled
+		color=white
+		node41 [label="" image="img/Slide42.jpeg" shape=none]
+		pos="12.096678733825684,-26.815410614013672!"
+	}
+	subgraph cluster_42 {
+		label=42
+		fontsize=10
+		style=filled
+		color=white
+		node42 [label="" image="img/Slide43.jpeg" shape=none]
+		pos="-7.559379577636719,20.13091468811035!"
+	}
+	subgraph cluster_43 {
+		label=43
+		fontsize=10
+		style=filled
+		color=white
+		node43 [label="" image="img/Slide44.jpeg" shape=none]
+		pos="27.057668685913086,-40.60752487182617!"
+	}
+	subgraph cluster_44 {
+		label=44
+		fontsize=10
+		style=filled
+		color=white
+		node44 [label="" image="img/Slide45.jpeg" shape=none]
+		pos="18.695533752441406,20.541227340698242!"
+	}
+	subgraph cluster_45 {
+		label=45
+		fontsize=10
+		style=filled
+		color=white
+		node45 [label="" image="img/Slide46.jpeg" shape=none]
+		pos="9.085573196411133,13.077836036682129!"
+	}
+	subgraph cluster_46 {
+		label=46
+		fontsize=10
+		style=filled
+		color=white
+		node46 [label="" image="img/Slide47.jpeg" shape=none]
+		pos="-15.141357421875,-38.7409782409668!"
+	}
+	subgraph cluster_47 {
+		label=47
+		fontsize=10
+		style=filled
+		color=white
+		node47 [label="" image="img/Slide48.jpeg" shape=none]
+		pos="15.19324016571045,58.48019027709961!"
+	}
+	subgraph cluster_48 {
+		label=48
+		fontsize=10
+		style=filled
+		color=white
+		node48 [label="" image="img/Slide49.jpeg" shape=none]
+		pos="-67.08341217041016,34.82352066040039!"
+	}
+	subgraph cluster_49 {
+		label=49
+		fontsize=10
+		style=filled
+		color=white
+		node49 [label="" image="img/Slide50.jpeg" shape=none]
+		pos="-69.51808166503906,22.062034606933594!"
+	}
+	subgraph cluster_50 {
+		label=50
+		fontsize=10
+		style=filled
+		color=white
+		node50 [label="" image="img/Slide51.jpeg" shape=none]
+		pos="54.729530334472656,11.775870323181152!"
+	}
+	subgraph cluster_51 {
+		label=51
+		fontsize=10
+		style=filled
+		color=white
+		node51 [label="" image="img/Slide52.jpeg" shape=none]
+		pos="5.7410888671875,27.81050682067871!"
+	}
+	subgraph cluster_52 {
+		label=52
+		fontsize=10
+		style=filled
+		color=white
+		node52 [label="" image="img/Slide53.jpeg" shape=none]
+		pos="-47.89181137084961,5.069448471069336!"
+	}
+	subgraph cluster_53 {
+		label=53
+		fontsize=10
+		style=filled
+		color=white
+		node53 [label="" image="img/Slide54.jpeg" shape=none]
+		pos="25.607398986816406,41.61313247680664!"
+	}
+	subgraph cluster_54 {
+		label=54
+		fontsize=10
+		style=filled
+		color=white
+		node54 [label="" image="img/Slide55.jpeg" shape=none]
+		pos="10.724409103393555,42.211036682128906!"
+	}
+	subgraph cluster_55 {
+		label=55
+		fontsize=10
+		style=filled
+		color=white
+		node55 [label="" image="img/Slide56.jpeg" shape=none]
+		pos="-34.142086029052734,49.07664108276367!"
+	}
+	subgraph cluster_56 {
+		label=56
+		fontsize=10
+		style=filled
+		color=white
+		node56 [label="" image="img/Slide57.jpeg" shape=none]
+		pos="-21.382587432861328,33.531246185302734!"
+	}
+	subgraph cluster_57 {
+		label=57
+		fontsize=10
+		style=filled
+		color=white
+		node57 [label="" image="img/Slide58.jpeg" shape=none]
+		pos="7.474709987640381,71.86249542236328!"
+	}
+	subgraph cluster_58 {
+		label=58
+		fontsize=10
+		style=filled
+		color=white
+		node58 [label="" image="img/Slide59.jpeg" shape=none]
+		pos="-14.948554992675781,51.56486511230469!"
+	}
+	subgraph cluster_59 {
+		label=59
+		fontsize=10
+		style=filled
+		color=white
+		node59 [label="" image="img/Slide60.jpeg" shape=none]
+		pos="-36.63071823120117,18.56690788269043!"
+	}
+	subgraph cluster_60 {
+		label=60
+		fontsize=10
+		style=filled
+		color=white
+		node60 [label="" image="img/Slide61.jpeg" shape=none]
+		pos="-23.281587600708008,19.152069091796875!"
+	}
+	subgraph cluster_61 {
+		label=61
+		fontsize=10
+		style=filled
+		color=white
+		node61 [label="" image="img/Slide62.jpeg" shape=none]
+		pos="-7.18634033203125,36.65174865722656!"
+	}
+	subgraph cluster_62 {
+		label=62
+		fontsize=10
+		style=filled
+		color=white
+		node62 [label="" image="img/Slide63.jpeg" shape=none]
+		pos="-40.58411407470703,33.99077606201172!"
+	}
+	subgraph cluster_63 {
+		label=63
+		fontsize=10
+		style=filled
+		color=white
+		node63 [label="" image="img/Slide64.jpeg" shape=none]
+		pos="-1.1225476264953613,51.113983154296875!"
+	}
+	subgraph cluster_64 {
+		label=64
+		fontsize=10
+		style=filled
+		color=white
+		node64 [label="" image="img/Slide65.jpeg" shape=none]
+		pos="-26.558210372924805,2.9757275581359863!"
+	}
+	subgraph cluster_65 {
+		label=65
+		fontsize=10
+		style=filled
+		color=white
+		node65 [label="" image="img/Slide66.jpeg" shape=none]
+		pos="-0.16197112202644348,93.87389373779297!"
+	}
+	node0 -- node1 [weight=0.7613987595394265]
+	node0 -- node2 [weight=0.7476713135230542]
+	node0 -- node3 [weight=0.7199271279501743]
+	node0 -- node4 [weight=0.7074016248126949]
+	node0 -- node5 [weight=0.7535265088492281]
+	node0 -- node6 [weight=0.6796979018941591]
+	node0 -- node7 [weight=0.776274037146951]
+	node0 -- node8 [weight=0.7754858129788184]
+	node0 -- node9 [weight=0.654879375358783]
+	node0 -- node10 [weight=0.6802720415152703]
+	node0 -- node11 [weight=0.7373580055003351]
+	node0 -- node12 [weight=0.7132743249791741]
+	node0 -- node13 [weight=0.6957723197566443]
+	node0 -- node14 [weight=0.7897198481618944]
+	node0 -- node15 [weight=0.7867921159270945]
+	node0 -- node16 [weight=0.5826298798839128]
+	node0 -- node17 [weight=0.6908607946337704]
+	node0 -- node18 [weight=0.7443931875104628]
+	node0 -- node19 [weight=0.6781282529330664]
+	node0 -- node20 [weight=0.7030209364689669]
+	node0 -- node21 [weight=0.7022670408270866]
+	node0 -- node22 [weight=0.5817682172366201]
+	node0 -- node23 [weight=0.595886556921211]
+	node0 -- node24 [weight=0.603246216366156]
+	node0 -- node25 [weight=0.6057643679459794]
+	node0 -- node26 [weight=0.5800322538915428]
+	node0 -- node27 [weight=0.7839455944656649]
+	node0 -- node28 [weight=0.6764920184747132]
+	node0 -- node29 [weight=0.6759600389972727]
+	node0 -- node33 [weight=0.5973759528456375]
+	node0 -- node34 [weight=0.7021371613308804]
+	node0 -- node36 [weight=0.5183891262873218]
+	node0 -- node37 [weight=0.6350181731255384]
+	node0 -- node38 [weight=0.7825461802722107]
+	node0 -- node39 [weight=0.7210624591562249]
+	node0 -- node40 [weight=0.7183948753782009]
+	node0 -- node41 [weight=0.7157033751119695]
+	node0 -- node42 [weight=0.7370697209827963]
+	node0 -- node43 [weight=0.6328496839892264]
+	node0 -- node44 [weight=0.7355422211230126]
+	node0 -- node45 [weight=0.7349372707640693]
+	node0 -- node46 [weight=0.5964418843992456]
+	node0 -- node47 [weight=0.740742807950348]
+	node0 -- node50 [weight=0.6660582741475778]
+	node0 -- node51 [weight=0.7223641687594256]
+	node0 -- node53 [weight=0.7877189919497078]
+	node0 -- node54 [weight=0.6829913584591467]
+	node0 -- node56 [weight=0.708086491453521]
+	node0 -- node57 [weight=0.7636828829187121]
+	node0 -- node58 [weight=0.6764893716705306]
+	node0 -- node59 [weight=0.563702574193024]
+	node0 -- node60 [weight=0.6213594428656035]
+	node0 -- node61 [weight=0.7412416580400111]
+	node0 -- node62 [weight=0.5107740485059885]
+	node0 -- node63 [weight=0.7091806680875711]
+	node0 -- node64 [weight=0.5087101880686163]
+	node0 -- node65 [weight=0.7586277483659772]
+	node1 -- node2 [weight=0.9660872717758489]
+	node1 -- node4 [weight=0.9210150377827412]
+	node1 -- node5 [weight=0.5777005458232125]
+	node1 -- node6 [weight=0.8555099821156487]
+	node1 -- node7 [weight=0.5358025503336488]
+	node1 -- node9 [weight=0.6699251851857919]
+	node1 -- node10 [weight=0.7372165140709831]
+	node1 -- node16 [weight=0.5724907570026601]
+	node1 -- node19 [weight=0.5069072896359696]
+	node1 -- node22 [weight=0.5748358688658741]
+	node1 -- node26 [weight=0.6098235373221793]
+	node1 -- node27 [weight=0.503894282714343]
+	node1 -- node28 [weight=0.599892227865039]
+	node1 -- node34 [weight=0.7175896729552573]
+	node1 -- node37 [weight=0.7264369224273197]
+	node1 -- node38 [weight=0.8676030621821841]
+	node1 -- node39 [weight=0.662951208744525]
+	node1 -- node40 [weight=0.6877770133729115]
+	node1 -- node41 [weight=0.6839369856347084]
+	node1 -- node43 [weight=0.6521960846074842]
+	node1 -- node46 [weight=0.5832106100027558]
+	node1 -- node53 [weight=0.537612230435333]
+	node2 -- node4 [weight=0.9594507330757545]
+	node2 -- node5 [weight=0.5722615180121436]
+	node2 -- node6 [weight=0.9136501919694955]
+	node2 -- node7 [weight=0.5450792796960889]
+	node2 -- node9 [weight=0.7104896184226364]
+	node2 -- node10 [weight=0.7789871611846404]
+	node2 -- node16 [weight=0.6200839747398357]
+	node2 -- node19 [weight=0.54305710796587]
+	node2 -- node22 [weight=0.5865996556222763]
+	node2 -- node26 [weight=0.6652535240630528]
+	node2 -- node27 [weight=0.5244620581563603]
+	node2 -- node28 [weight=0.6370636011907744]
+	node2 -- node30 [weight=0.5217261837984604]
+	node2 -- node34 [weight=0.7024761422611727]
+	node2 -- node37 [weight=0.7324766438920708]
+	node2 -- node38 [weight=0.8508860674426904]
+	node2 -- node39 [weight=0.6577589734535961]
+	node2 -- node40 [weight=0.6921792504038096]
+	node2 -- node41 [weight=0.6888237325604987]
+	node2 -- node43 [weight=0.6491199941775034]
+	node2 -- node46 [weight=0.6170049818946944]
+	node2 -- node53 [weight=0.5373864026027003]
+	node3 -- node5 [weight=0.6443112910260462]
+	node3 -- node7 [weight=0.7128822334365886]
+	node3 -- node8 [weight=0.7151514127320631]
+	node3 -- node11 [weight=0.6891905434156309]
+	node3 -- node12 [weight=0.6646938642890327]
+	node3 -- node13 [weight=0.7368332281508807]
+	node3 -- node14 [weight=0.7694460217881677]
+	node3 -- node15 [weight=0.7058254056001625]
+	node3 -- node17 [weight=0.6790286222429829]
+	node3 -- node18 [weight=0.7593244876138341]
+	node3 -- node19 [weight=0.6093146866696767]
+	node3 -- node20 [weight=0.6807324053955838]
+	node3 -- node21 [weight=0.6821153110466087]
+	node3 -- node23 [weight=0.5958381927208833]
+	node3 -- node24 [weight=0.6048675735433604]
+	node3 -- node25 [weight=0.6046456664596334]
+	node3 -- node27 [weight=0.7124667079520088]
+	node3 -- node29 [weight=0.7293161510037437]
+	node3 -- node33 [weight=0.6091495805394949]
+	node3 -- node36 [weight=0.5170616983653363]
+	node3 -- node38 [weight=0.5051231927523308]
+	node3 -- node39 [weight=0.5101891544937036]
+	node3 -- node40 [weight=0.5333433916587124]
+	node3 -- node41 [weight=0.528405639830334]
+	node3 -- node42 [weight=0.6537113815277323]
+	node3 -- node44 [weight=0.6835101415311143]
+	node3 -- node45 [weight=0.680846726380448]
+	node3 -- node47 [weight=0.7212346797451826]
+	node3 -- node50 [weight=0.6272783666726006]
+	node3 -- node51 [weight=0.6451981498101556]
+	node3 -- node53 [weight=0.7435681687672732]
+	node3 -- node54 [weight=0.6175364858161717]
+	node3 -- node55 [weight=0.5031219624211293]
+	node3 -- node56 [weight=0.6567259203750265]
+	node3 -- node57 [weight=0.7238250595828711]
+	node3 -- node58 [weight=0.7475416751514241]
+	node3 -- node59 [weight=0.5746165337941513]
+	node3 -- node60 [weight=0.6040981053936971]
+	node3 -- node61 [weight=0.7385137982455934]
+	node3 -- node62 [weight=0.5341907455424879]
+	node3 -- node63 [weight=0.7192216586019945]
+	node3 -- node64 [weight=0.5385049760232268]
+	node3 -- node65 [weight=0.7326228218925764]
+	node4 -- node5 [weight=0.5552030173436519]
+	node4 -- node6 [weight=0.9476184346728556]
+	node4 -- node7 [weight=0.5313153736502593]
+	node4 -- node9 [weight=0.7648501181860634]
+	node4 -- node10 [weight=0.8234426344472663]
+	node4 -- node16 [weight=0.6690489029682368]
+	node4 -- node19 [weight=0.5759306962021137]
+	node4 -- node22 [weight=0.5995776976731862]
+	node4 -- node26 [weight=0.7133635681451126]
+	node4 -- node27 [weight=0.523171874590356]
+	node4 -- node28 [weight=0.6628309745164079]
+	node4 -- node30 [weight=0.5417020539423]
+	node4 -- node31 [weight=0.5292806955097074]
+	node4 -- node34 [weight=0.6713845670080564]
+	node4 -- node37 [weight=0.7120258077144334]
+	node4 -- node38 [weight=0.8178007446509504]
+	node4 -- node39 [weight=0.6528179425467557]
+	node4 -- node40 [weight=0.6802542890888365]
+	node4 -- node41 [weight=0.675150894341372]
+	node4 -- node43 [weight=0.6343895691002938]
+	node4 -- node46 [weight=0.6499704987910266]
+	node4 -- node53 [weight=0.5105461086578672]
+	node5 -- node6 [weight=0.5485894205333917]
+	node5 -- node7 [weight=0.7713965302518816]
+	node5 -- node8 [weight=0.7465251596389169]
+	node5 -- node9 [weight=0.5519952080319314]
+	node5 -- node10 [weight=0.588231142360401]
+	node5 -- node11 [weight=0.6989791399269297]
+	node5 -- node12 [weight=0.6848098526746517]
+	node5 -- node13 [weight=0.646130329401281]
+	node5 -- node14 [weight=0.7426267617833783]
+	node5 -- node15 [weight=0.7111675582361096]
+	node5 -- node16 [weight=0.5097389039432834]
+	node5 -- node17 [weight=0.6055650648026532]
+	node5 -- node18 [weight=0.7218520484886185]
+	node5 -- node19 [weight=0.5660440787477231]
+	node5 -- node20 [weight=0.6281326242000977]
+	node5 -- node21 [weight=0.6278052443295635]
+	node5 -- node23 [weight=0.5579842816765511]
+	node5 -- node24 [weight=0.5496494371993246]
+	node5 -- node25 [weight=0.5566720035503802]
+	node5 -- node27 [weight=0.691331774235207]
+	node5 -- node28 [weight=0.5615971721880553]
+	node5 -- node29 [weight=0.6136013986101557]
+	node5 -- node33 [weight=0.5643606906937804]
+	node5 -- node34 [weight=0.5881795908030735]
+	node5 -- node36 [weight=0.5878030270022767]
+	node5 -- node38 [weight=0.6061780143811126]
+	node5 -- node39 [weight=0.6097261786833919]
+	node5 -- node40 [weight=0.6462779357858244]
+	node5 -- node41 [weight=0.6474668296882488]
+	node5 -- node42 [weight=0.681886568959546]
+	node5 -- node43 [weight=0.5601775580341624]
+	node5 -- node44 [weight=0.6434043663434433]
+	node5 -- node45 [weight=0.6438667111430645]
+	node5 -- node46 [weight=0.5151308395790059]
+	node5 -- node47 [weight=0.6931364592206364]
+	node5 -- node50 [weight=0.6380401237577975]
+	node5 -- node51 [weight=0.6913829959861877]
+	node5 -- node53 [weight=0.734734016721614]
+	node5 -- node54 [weight=0.5978714566382357]
+	node5 -- node56 [weight=0.6160993255428158]
+	node5 -- node57 [weight=0.7273193145041799]
+	node5 -- node58 [weight=0.6617103398369301]
+	node5 -- node59 [weight=0.5280785197803874]
+	node5 -- node60 [weight=0.595511196492368]
+	node5 -- node61 [weight=0.7016217383626382]
+	node5 -- node63 [weight=0.6475994396310922]
+	node5 -- node65 [weight=0.671734571057294]
+	node6 -- node7 [weight=0.5409722323502597]
+	node6 -- node9 [weight=0.7935883179004075]
+	node6 -- node10 [weight=0.8480671805716145]
+	node6 -- node15 [weight=0.5127691597921634]
+	node6 -- node16 [weight=0.7244897829506228]
+	node6 -- node19 [weight=0.6062152344961429]
+	node6 -- node22 [weight=0.6022829360960001]
+	node6 -- node26 [weight=0.748427194253454]
+	node6 -- node27 [weight=0.5398978662626445]
+	node6 -- node28 [weight=0.7042059437561675]
+	node6 -- node30 [weight=0.5668465094545961]
+	node6 -- node31 [weight=0.5462920243516717]
+	node6 -- node32 [weight=0.5157791902809458]
+	node6 -- node34 [weight=0.6527872022698579]
+	node6 -- node37 [weight=0.6941531071302381]
+	node6 -- node38 [weight=0.7877801206591712]
+	node6 -- node39 [weight=0.6171175608035869]
+	node6 -- node40 [weight=0.6613803807697202]
+	node6 -- node41 [weight=0.6570337505465113]
+	node6 -- node43 [weight=0.624422723600892]
+	node6 -- node46 [weight=0.6858806286057417]
+	node7 -- node8 [weight=0.831215891428247]
+	node7 -- node9 [weight=0.5403892167874819]
+	node7 -- node10 [weight=0.5412160734076303]
+	node7 -- node11 [weight=0.6823111121111837]
+	node7 -- node12 [weight=0.661675368029159]
+	node7 -- node13 [weight=0.7183154029257526]
+	node7 -- node14 [weight=0.7494366868393009]
+	node7 -- node15 [weight=0.7303632029054776]
+	node7 -- node17 [weight=0.6730863077910942]
+	node7 -- node18 [weight=0.730145905059617]
+	node7 -- node19 [weight=0.6135634216124146]
+	node7 -- node20 [weight=0.678529187052285]
+	node7 -- node21 [weight=0.6773151195413425]
+	node7 -- node23 [weight=0.5216938515303168]
+	node7 -- node24 [weight=0.515749624043388]
+	node7 -- node25 [weight=0.5190826282519682]
+	node7 -- node27 [weight=0.6794698858465681]
+	node7 -- node28 [weight=0.5464367693728909]
+	node7 -- node29 [weight=0.6687609699822278]
+	node7 -- node33 [weight=0.5761398393686559]
+	node7 -- node34 [weight=0.5311765631504468]
+	node7 -- node36 [weight=0.5369131527735537]
+	node7 -- node38 [weight=0.5681909704448818]
+	node7 -- node39 [weight=0.6397832864169591]
+	node7 -- node40 [weight=0.6598823955182743]
+	node7 -- node41 [weight=0.6581909013832454]
+	node7 -- node42 [weight=0.7427597465533742]
+	node7 -- node43 [weight=0.5290537254624118]
+	node7 -- node44 [weight=0.6652898109465779]
+	node7 -- node45 [weight=0.6638406492268291]
+	node7 -- node47 [weight=0.7514255375967072]
+	node7 -- node50 [weight=0.6619294780237633]
+	node7 -- node51 [weight=0.6765838579783156]
+	node7 -- node53 [weight=0.7674860088422082]
+	node7 -- node54 [weight=0.6804799775062653]
+	node7 -- node56 [weight=0.6617823698259929]
+	node7 -- node57 [weight=0.7272399375878266]
+	node7 -- node58 [weight=0.7054216845895024]
+	node7 -- node59 [weight=0.5829493700292174]
+	node7 -- node60 [weight=0.6370334939094272]
+	node7 -- node61 [weight=0.7689764952978522]
+	node7 -- node62 [weight=0.5356782937508864]
+	node7 -- node63 [weight=0.7227672009819259]
+	node7 -- node64 [weight=0.5136352344948064]
+	node7 -- node65 [weight=0.729492941516441]
+	node8 -- node9 [weight=0.5505951201495393]
+	node8 -- node10 [weight=0.5773258077927441]
+	node8 -- node11 [weight=0.7479533318617146]
+	node8 -- node12 [weight=0.7059406518753396]
+	node8 -- node13 [weight=0.7176754319066654]
+	node8 -- node14 [weight=0.8004632064669998]
+	node8 -- node15 [weight=0.7660027225222734]
+	node8 -- node16 [weight=0.5131257772026463]
+	node8 -- node17 [weight=0.6712863071964283]
+	node8 -- node18 [weight=0.7573110479259942]
+	node8 -- node19 [weight=0.6214836003845418]
+	node8 -- node20 [weight=0.6755456675674417]
+	node8 -- node21 [weight=0.6726230909863745]
+	node8 -- node23 [weight=0.5587232770427543]
+	node8 -- node24 [weight=0.5407166311192955]
+	node8 -- node25 [weight=0.544079605157357]
+	node8 -- node27 [weight=0.7605536408028599]
+	node8 -- node28 [weight=0.6230429183504261]
+	node8 -- node29 [weight=0.6558669734028834]
+	node8 -- node33 [weight=0.5877397073870309]
+	node8 -- node34 [weight=0.5499826985634969]
+	node8 -- node38 [weight=0.5879181195978741]
+	node8 -- node39 [weight=0.6581735830961682]
+	node8 -- node40 [weight=0.6427407568989267]
+	node8 -- node41 [weight=0.6407166191410768]
+	node8 -- node42 [weight=0.7584949175879028]
+	node8 -- node43 [weight=0.518723418452242]
+	node8 -- node44 [weight=0.7303097509162473]
+	node8 -- node45 [weight=0.7296585516237293]
+	node8 -- node46 [weight=0.5499637943130455]
+	node8 -- node47 [weight=0.7741924998224732]
+	node8 -- node50 [weight=0.6613930363501342]
+	node8 -- node51 [weight=0.7447962024359163]
+	node8 -- node53 [weight=0.7775202623461736]
+	node8 -- node54 [weight=0.7606182977854892]
+	node8 -- node55 [weight=0.5178675139467133]
+	node8 -- node56 [weight=0.675203062613041]
+	node8 -- node57 [weight=0.818054416180719]
+	node8 -- node58 [weight=0.7335827612267664]
+	node8 -- node59 [weight=0.5793558958515791]
+	node8 -- node60 [weight=0.6385568533517068]
+	node8 -- node61 [weight=0.7459899113844852]
+	node8 -- node62 [weight=0.584097602242463]
+	node8 -- node63 [weight=0.7430972496502946]
+	node8 -- node64 [weight=0.5800168042093438]
+	node8 -- node65 [weight=0.7302362706390757]
+	node9 -- node10 [weight=0.8966591670693614]
+	node9 -- node11 [weight=0.5660537620424141]
+	node9 -- node12 [weight=0.5508180996290594]
+	node9 -- node14 [weight=0.5236149269856933]
+	node9 -- node15 [weight=0.5849249972875453]
+	node9 -- node16 [weight=0.7862418054036147]
+	node9 -- node17 [weight=0.5589771319093145]
+	node9 -- node19 [weight=0.6441737603025204]
+	node9 -- node20 [weight=0.5706716648666725]
+	node9 -- node21 [weight=0.565182186697686]
+	node9 -- node22 [weight=0.5867861487658551]
+	node9 -- node24 [weight=0.52384178809193]
+	node9 -- node25 [weight=0.5205705831585123]
+	node9 -- node26 [weight=0.7975634858292392]
+	node9 -- node27 [weight=0.646313356657336]
+	node9 -- node28 [weight=0.7375119950738857]
+	node9 -- node29 [weight=0.5288584499492248]
+	node9 -- node30 [weight=0.6418394023483004]
+	node9 -- node31 [weight=0.6482547369201682]
+	node9 -- node32 [weight=0.6177022431884664]
+	node9 -- node34 [weight=0.6323538860739768]
+	node9 -- node35 [weight=0.5801016303240563]
+	node9 -- node37 [weight=0.6031968849639491]
+	node9 -- node38 [weight=0.6971159314794185]
+	node9 -- node39 [weight=0.6030813223909244]
+	node9 -- node40 [weight=0.6211912322058293]
+	node9 -- node41 [weight=0.613846959508614]
+	node9 -- node43 [weight=0.5698432006282849]
+	node9 -- node44 [weight=0.537343730521587]
+	node9 -- node45 [weight=0.5354619941210137]
+	node9 -- node46 [weight=0.7407534619406876]
+	node9 -- node50 [weight=0.5785821497882359]
+	node9 -- node51 [weight=0.529699984232356]
+	node9 -- node53 [weight=0.5472919739365455]
+	node10 -- node11 [weight=0.5940219434247438]
+	node10 -- node12 [weight=0.579956325144162]
+	node10 -- node13 [weight=0.5197496294485117]
+	node10 -- node14 [weight=0.5403194009461632]
+	node10 -- node15 [weight=0.5896254569906317]
+	node10 -- node16 [weight=0.846205025548517]
+	node10 -- node17 [weight=0.5586590593380046]
+	node10 -- node19 [weight=0.6764160328912626]
+	node10 -- node20 [weight=0.5881262746909243]
+	node10 -- node21 [weight=0.5838014695636009]
+	node10 -- node22 [weight=0.6434702279778713]
+	node10 -- node23 [weight=0.5164763217998262]
+	node10 -- node24 [weight=0.5393666339686211]
+	node10 -- node25 [weight=0.5361861455354996]
+	node10 -- node26 [weight=0.8264123884473783]
+	node10 -- node27 [weight=0.6875750941110149]
+	node10 -- node28 [weight=0.8098024995351755]
+	node10 -- node29 [weight=0.5464054043950866]
+	node10 -- node30 [weight=0.6966756444049086]
+	node10 -- node31 [weight=0.6772214612765747]
+	node10 -- node32 [weight=0.6496186085833201]
+	node10 -- node34 [weight=0.6817187024931894]
+	node10 -- node35 [weight=0.624236710831396]
+	node10 -- node37 [weight=0.6497838977381628]
+	node10 -- node38 [weight=0.7850805325642094]
+	node10 -- node39 [weight=0.6581904946039434]
+	node10 -- node40 [weight=0.6592622241262477]
+	node10 -- node41 [weight=0.6521972996354259]
+	node10 -- node43 [weight=0.6186296044099714]
+	node10 -- node44 [weight=0.5246053970767169]
+	node10 -- node45 [weight=0.5230429022125535]
+	node10 -- node46 [weight=0.8152857360803517]
+	node10 -- node50 [weight=0.5582975028592314]
+	node10 -- node51 [weight=0.5546811494318862]
+	node10 -- node53 [weight=0.5636900210573298]
+	node10 -- node57 [weight=0.5329188571511665]
+	node11 -- node12 [weight=0.7558687811818611]
+	node11 -- node13 [weight=0.7274308189618799]
+	node11 -- node14 [weight=0.82020099127347]
+	node11 -- node15 [weight=0.7495495776751183]
+	node11 -- node16 [weight=0.53766179339985]
+	node11 -- node17 [weight=0.709887396011606]
+	node11 -- node18 [weight=0.764344472006549]
+	node11 -- node19 [weight=0.5907377253407625]
+	node11 -- node20 [weight=0.7479399838276924]
+	node11 -- node21 [weight=0.7463334597820999]
+	node11 -- node23 [weight=0.5836966720975714]
+	node11 -- node24 [weight=0.5814776430878346]
+	node11 -- node25 [weight=0.5820938571198172]
+	node11 -- node27 [weight=0.7483006041730066]
+	node11 -- node28 [weight=0.5608304664321974]
+	node11 -- node29 [weight=0.6583896149137624]
+	node11 -- node33 [weight=0.5272454986072324]
+	node11 -- node34 [weight=0.5267637860870464]
+	node11 -- node38 [weight=0.5227989991179245]
+	node11 -- node39 [weight=0.5788530567130848]
+	node11 -- node40 [weight=0.5706014090437314]
+	node11 -- node41 [weight=0.5696527314714167]
+	node11 -- node42 [weight=0.6860587385592621]
+	node11 -- node44 [weight=0.7545821939155616]
+	node11 -- node45 [weight=0.7534100615948839]
+	node11 -- node46 [weight=0.5204507925981922]
+	node11 -- node47 [weight=0.7341476724277439]
+	node11 -- node50 [weight=0.6405597872371008]
+	node11 -- node51 [weight=0.6853665644868356]
+	node11 -- node53 [weight=0.7649928627673254]
+	node11 -- node54 [weight=0.671185605490647]
+	node11 -- node56 [weight=0.6503116096520969]
+	node11 -- node57 [weight=0.7612912363688878]
+	node11 -- node58 [weight=0.6923125178088133]
+	node11 -- node59 [weight=0.5450509254271394]
+	node11 -- node60 [weight=0.5966584504045482]
+	node11 -- node61 [weight=0.7037594280167806]
+	node11 -- node62 [weight=0.502304689211858]
+	node11 -- node63 [weight=0.6922554771669926]
+	node11 -- node64 [weight=0.5041103181896893]
+	node11 -- node65 [weight=0.6859983668846728]
+	node12 -- node13 [weight=0.709575418546569]
+	node12 -- node14 [weight=0.7510656365220305]
+	node12 -- node15 [weight=0.7096012177680278]
+	node12 -- node16 [weight=0.5252240340398724]
+	node12 -- node17 [weight=0.6731992478990697]
+	node12 -- node18 [weight=0.7102118540135768]
+	node12 -- node19 [weight=0.6363784339914867]
+	node12 -- node20 [weight=0.7478446692231634]
+	node12 -- node21 [weight=0.74530540001179]
+	node12 -- node23 [weight=0.5925669404660086]
+	node12 -- node24 [weight=0.5892106309900079]
+	node12 -- node25 [weight=0.5907720382768463]
+	node12 -- node27 [weight=0.7267637959786944]
+	node12 -- node28 [weight=0.5764595511749374]
+	node12 -- node29 [weight=0.6298751709099942]
+	node12 -- node33 [weight=0.540482842849181]
+	node12 -- node34 [weight=0.5576155737437055]
+	node12 -- node36 [weight=0.5216308946658215]
+	node12 -- node38 [weight=0.5578493867752731]
+	node12 -- node39 [weight=0.5621995194582383]
+	node12 -- node40 [weight=0.5539912103561936]
+	node12 -- node41 [weight=0.5526231754426149]
+	node12 -- node42 [weight=0.6688504726849385]
+	node12 -- node43 [weight=0.5156751309670912]
+	node12 -- node44 [weight=0.7338973260088728]
+	node12 -- node45 [weight=0.7319789312980136]
+	node12 -- node46 [weight=0.5261303070367802]
+	node12 -- node47 [weight=0.7576704976673954]
+	node12 -- node50 [weight=0.6263490959293359]
+	node12 -- node51 [weight=0.704450021211422]
+	node12 -- node53 [weight=0.6803233396643676]
+	node12 -- node54 [weight=0.6502023354201535]
+	node12 -- node56 [weight=0.6304700744466945]
+	node12 -- node57 [weight=0.7220036143693962]
+	node12 -- node58 [weight=0.6572620571197555]
+	node12 -- node59 [weight=0.5227412728272232]
+	node12 -- node60 [weight=0.5707054494548476]
+	node12 -- node61 [weight=0.6639068184203886]
+	node12 -- node62 [weight=0.5206133896978463]
+	node12 -- node63 [weight=0.7070041529615064]
+	node12 -- node65 [weight=0.7020527263506344]
+	node13 -- node14 [weight=0.773254478727021]
+	node13 -- node15 [weight=0.7028568810867973]
+	node13 -- node17 [weight=0.9101153876166932]
+	node13 -- node18 [weight=0.7807425699723914]
+	node13 -- node19 [weight=0.5880016595296903]
+	node13 -- node20 [weight=0.887254930537454]
+	node13 -- node21 [weight=0.8841104382054589]
+	node13 -- node23 [weight=0.6277774263289702]
+	node13 -- node24 [weight=0.6188078596180981]
+	node13 -- node25 [weight=0.6191946712864561]
+	node13 -- node27 [weight=0.7448561810897852]
+	node13 -- node28 [weight=0.5444235033698009]
+	node13 -- node29 [weight=0.6936294637701474]
+	node13 -- node33 [weight=0.5846984635630045]
+	node13 -- node40 [weight=0.510712005726348]
+	node13 -- node41 [weight=0.5076076258025741]
+	node13 -- node42 [weight=0.6966941230842306]
+	node13 -- node44 [weight=0.7215744635759975]
+	node13 -- node45 [weight=0.7205445303902299]
+	node13 -- node47 [weight=0.7316814643173922]
+	node13 -- node50 [weight=0.6938503314243821]
+	node13 -- node51 [weight=0.6714376057618769]
+	node13 -- node53 [weight=0.7487349710664316]
+	node13 -- node54 [weight=0.6684113454640771]
+	node13 -- node55 [weight=0.5582813619798399]
+	node13 -- node56 [weight=0.6525555822822402]
+	node13 -- node57 [weight=0.720910813591928]
+	node13 -- node58 [weight=0.7610949484535214]
+	node13 -- node59 [weight=0.5557775006953142]
+	node13 -- node60 [weight=0.6019564441790027]
+	node13 -- node61 [weight=0.7369993528398876]
+	node13 -- node62 [weight=0.56693520459178]
+	node13 -- node63 [weight=0.7325793985898442]
+	node13 -- node64 [weight=0.6447247232814635]
+	node13 -- node65 [weight=0.7016766468016334]
+	node14 -- node15 [weight=0.833518533198827]
+	node14 -- node16 [weight=0.5034121001510629]
+	node14 -- node17 [weight=0.7470098060564486]
+	node14 -- node18 [weight=0.8896862191220892]
+	node14 -- node19 [weight=0.7102290631320982]
+	node14 -- node20 [weight=0.725210313692348]
+	node14 -- node21 [weight=0.7235250344327054]
+	node14 -- node23 [weight=0.6386418987844601]
+	node14 -- node24 [weight=0.6245853874091459]
+	node14 -- node25 [weight=0.6277028266730992]
+	node14 -- node27 [weight=0.8120810986413405]
+	node14 -- node28 [weight=0.5715213880392321]
+	node14 -- node29 [weight=0.7653934800142388]
+	node14 -- node33 [weight=0.6169605221861115]
+	node14 -- node34 [weight=0.5619167082166753]
+	node14 -- node36 [weight=0.5689994213365421]
+	node14 -- node38 [weight=0.5493084877741404]
+	node14 -- node39 [weight=0.592574204923166]
+	node14 -- node40 [weight=0.599815480337109]
+	node14 -- node41 [weight=0.5997144112394488]
+	node14 -- node42 [weight=0.8035405090745255]
+	node14 -- node43 [weight=0.5352835690510325]
+	node14 -- node44 [weight=0.8211159146156872]
+	node14 -- node45 [weight=0.8207670976552518]
+	node14 -- node46 [weight=0.5115864638978422]
+	node14 -- node47 [weight=0.8718123756798093]
+	node14 -- node50 [weight=0.6925884270746839]
+	node14 -- node51 [weight=0.8137186541739209]
+	node14 -- node53 [weight=0.832553742040193]
+	node14 -- node54 [weight=0.7758942642769262]
+	node14 -- node55 [weight=0.5405984431026614]
+	node14 -- node56 [weight=0.8160280045719301]
+	node14 -- node57 [weight=0.8781139440252413]
+	node14 -- node58 [weight=0.8403779718839182]
+	node14 -- node59 [weight=0.6093642482485643]
+	node14 -- node60 [weight=0.6697874294764039]
+	node14 -- node61 [weight=0.8314195916413022]
+	node14 -- node62 [weight=0.6349566019822659]
+	node14 -- node63 [weight=0.8369624711287786]
+	node14 -- node64 [weight=0.5799271538370959]
+	node14 -- node65 [weight=0.8280729755018608]
+	node15 -- node16 [weight=0.5647849775568599]
+	node15 -- node17 [weight=0.7062331029839921]
+	node15 -- node18 [weight=0.7875440680657169]
+	node15 -- node19 [weight=0.7406943837917307]
+	node15 -- node20 [weight=0.7005590586234242]
+	node15 -- node21 [weight=0.7010170823773288]
+	node15 -- node23 [weight=0.6177608848723525]
+	node15 -- node24 [weight=0.6213337055455687]
+	node15 -- node25 [weight=0.6248665588496587]
+	node15 -- node26 [weight=0.528033588942492]
+	node15 -- node27 [weight=0.7463675396451933]
+	node15 -- node28 [weight=0.608285820964077]
+	node15 -- node29 [weight=0.7140953689879431]
+	node15 -- node33 [weight=0.5313999109656746]
+	node15 -- node34 [weight=0.5627014303627879]
+	node15 -- node38 [weight=0.5568978340994472]
+	node15 -- node39 [weight=0.5890744896768846]
+	node15 -- node40 [weight=0.6404145138127401]
+	node15 -- node41 [weight=0.6407898696520844]
+	node15 -- node42 [weight=0.7473887197625741]
+	node15 -- node43 [weight=0.5315099860945126]
+	node15 -- node44 [weight=0.8206104963111477]
+	node15 -- node45 [weight=0.8192426984218542]
+	node15 -- node46 [weight=0.547954540331083]
+	node15 -- node47 [weight=0.8324331616645427]
+	node15 -- node50 [weight=0.5771308614496677]
+	node15 -- node51 [weight=0.80459816392913]
+	node15 -- node53 [weight=0.7743124917363401]
+	node15 -- node54 [weight=0.7080187108871906]
+	node15 -- node55 [weight=0.5335616099882393]
+	node15 -- node56 [weight=0.735898258764863]
+	node15 -- node57 [weight=0.841504172382229]
+	node15 -- node58 [weight=0.7990769334458017]
+	node15 -- node59 [weight=0.6006626821063225]
+	node15 -- node60 [weight=0.6402061232751827]
+	node15 -- node61 [weight=0.7778627930225661]
+	node15 -- node62 [weight=0.6178846697784303]
+	node15 -- node63 [weight=0.8534532498394866]
+	node15 -- node64 [weight=0.550423970621114]
+	node15 -- node65 [weight=0.7617042679608077]
+	node16 -- node17 [weight=0.5206319664176873]
+	node16 -- node19 [weight=0.6667744566624593]
+	node16 -- node20 [weight=0.5336464561169413]
+	node16 -- node21 [weight=0.5316214182885431]
+	node16 -- node22 [weight=0.6311943400066167]
+	node16 -- node26 [weight=0.8480341270651318]
+	node16 -- node27 [weight=0.6814799261339411]
+	node16 -- node28 [weight=0.8000365673740782]
+	node16 -- node29 [weight=0.5577214597532579]
+	node16 -- node30 [weight=0.7031688610663416]
+	node16 -- node31 [weight=0.6983946846066003]
+	node16 -- node32 [weight=0.6922823849564971]
+	node16 -- node34 [weight=0.6298713171955415]
+	node16 -- node35 [weight=0.6647004628116353]
+	node16 -- node37 [weight=0.6112665362780733]
+	node16 -- node38 [weight=0.669741181347865]
+	node16 -- node39 [weight=0.5939713457130025]
+	node16 -- node40 [weight=0.6103509289358425]
+	node16 -- node41 [weight=0.6091064878561597]
+	node16 -- node43 [weight=0.5930707869893345]
+	node16 -- node44 [weight=0.5221446795092951]
+	node16 -- node45 [weight=0.5200953087032605]
+	node16 -- node46 [weight=0.803217875761977]
+	node16 -- node50 [weight=0.5233855135984289]
+	node16 -- node51 [weight=0.5133538004863242]
+	node16 -- node57 [weight=0.5174566062688485]
+	node17 -- node18 [weight=0.746723648987232]
+	node17 -- node19 [weight=0.6237126243488945]
+	node17 -- node20 [weight=0.9004635876957989]
+	node17 -- node21 [weight=0.8978310818175904]
+	node17 -- node23 [weight=0.6101166499034499]
+	node17 -- node24 [weight=0.6221646762451813]
+	node17 -- node25 [weight=0.6232342578813214]
+	node17 -- node26 [weight=0.5168142909331338]
+	node17 -- node27 [weight=0.7428615499641392]
+	node17 -- node28 [weight=0.5725982845776739]
+	node17 -- node29 [weight=0.7144404854611988]
+	node17 -- node33 [weight=0.5698897332265758]
+	node17 -- node34 [weight=0.5069261361635821]
+	node17 -- node39 [weight=0.5051162432929759]
+	node17 -- node40 [weight=0.5058857614237963]
+	node17 -- node41 [weight=0.5032730008193429]
+	node17 -- node42 [weight=0.6484121029953598]
+	node17 -- node44 [weight=0.7195276518920234]
+	node17 -- node45 [weight=0.721024958809698]
+	node17 -- node46 [weight=0.5197651754768401]
+	node17 -- node47 [weight=0.6987153819822237]
+	node17 -- node50 [weight=0.6734567315300516]
+	node17 -- node51 [weight=0.6813534401518628]
+	node17 -- node53 [weight=0.6944963913092191]
+	node17 -- node54 [weight=0.6288166001407566]
+	node17 -- node55 [weight=0.5030248195307923]
+	node17 -- node56 [weight=0.6203821836984944]
+	node17 -- node57 [weight=0.6899522876628382]
+	node17 -- node58 [weight=0.7167464592716085]
+	node17 -- node59 [weight=0.5547976192944396]
+	node17 -- node60 [weight=0.585032487233079]
+	node17 -- node61 [weight=0.6983375658520291]
+	node17 -- node62 [weight=0.5295061975689761]
+	node17 -- node63 [weight=0.6949955677981046]
+	node17 -- node64 [weight=0.6033159436542385]
+	node17 -- node65 [weight=0.6472499685731804]
+	node18 -- node19 [weight=0.6682993015660363]
+	node18 -- node20 [weight=0.7313760559558885]
+	node18 -- node21 [weight=0.7268418701128729]
+	node18 -- node23 [weight=0.7788044918832208]
+	node18 -- node24 [weight=0.7538695419839094]
+	node18 -- node25 [weight=0.7574579520612547]
+	node18 -- node27 [weight=0.8051954675959284]
+	node18 -- node28 [weight=0.5663998158275091]
+	node18 -- node29 [weight=0.7215797997440297]
+	node18 -- node33 [weight=0.6599718135564825]
+	node18 -- node34 [weight=0.5126689473360518]
+	node18 -- node36 [weight=0.5556520592731045]
+	node18 -- node38 [weight=0.5277365963968549]
+	node18 -- node39 [weight=0.5551898842051488]
+	node18 -- node40 [weight=0.5402642152677559]
+	node18 -- node41 [weight=0.5402975641143423]
+	node18 -- node42 [weight=0.782539457212653]
+	node18 -- node44 [weight=0.7767526414136584]
+	node18 -- node45 [weight=0.7773548657463882]
+	node18 -- node46 [weight=0.5057730175693527]
+	node18 -- node47 [weight=0.8601485551798584]
+	node18 -- node50 [weight=0.707826089368565]
+	node18 -- node51 [weight=0.7585373143416412]
+	node18 -- node53 [weight=0.8275301525537434]
+	node18 -- node54 [weight=0.7477355310683426]
+	node18 -- node55 [weight=0.5463456908108619]
+	node18 -- node56 [weight=0.7932697844506977]
+	node18 -- node57 [weight=0.8378164257499077]
+	node18 -- node58 [weight=0.8435082540672805]
+	node18 -- node59 [weight=0.6184678543502107]
+	node18 -- node60 [weight=0.6737799340691476]
+	node18 -- node61 [weight=0.8373859363384026]
+	node18 -- node62 [weight=0.6326887654537106]
+	node18 -- node63 [weight=0.817464738587058]
+	node18 -- node64 [weight=0.6103634645919814]
+	node18 -- node65 [weight=0.8169855010705206]
+	node19 -- node20 [weight=0.6154631612217958]
+	node19 -- node21 [weight=0.6131138440331564]
+	node19 -- node23 [weight=0.5588321990726511]
+	node19 -- node24 [weight=0.5798130108101739]
+	node19 -- node25 [weight=0.584326900822126]
+	node19 -- node26 [weight=0.6968417511662515]
+	node19 -- node27 [weight=0.7545344740335032]
+	node19 -- node28 [weight=0.6979630892307042]
+	node19 -- node29 [weight=0.7424705061553614]
+	node19 -- node30 [weight=0.56550393676856]
+	node19 -- node31 [weight=0.557127874389734]
+	node19 -- node32 [weight=0.5547003615244088]
+	node19 -- node34 [weight=0.5424154820485916]
+	node19 -- node35 [weight=0.5322391786464682]
+	node19 -- node38 [weight=0.5981516853058295]
+	node19 -- node39 [weight=0.5439870521289131]
+	node19 -- node40 [weight=0.5630800720101946]
+	node19 -- node41 [weight=0.5617437269733244]
+	node19 -- node42 [weight=0.6127498338587354]
+	node19 -- node44 [weight=0.6852363055708665]
+	node19 -- node45 [weight=0.6829779634029942]
+	node19 -- node46 [weight=0.6769754523736163]
+	node19 -- node47 [weight=0.6666827402100722]
+	node19 -- node50 [weight=0.5542464350729562]
+	node19 -- node51 [weight=0.704711257394498]
+	node19 -- node53 [weight=0.6301739145883544]
+	node19 -- node54 [weight=0.6640203768283143]
+	node19 -- node56 [weight=0.6500212242976292]
+	node19 -- node57 [weight=0.6819836883546374]
+	node19 -- node58 [weight=0.5882666994954625]
+	node19 -- node59 [weight=0.5327407038367752]
+	node19 -- node60 [weight=0.5437309198895077]
+	node19 -- node61 [weight=0.6696150936542429]
+	node19 -- node62 [weight=0.6041132120262139]
+	node19 -- node63 [weight=0.6770597552376009]
+	node19 -- node64 [weight=0.5573538033469171]
+	node19 -- node65 [weight=0.6280573134255356]
+	node20 -- node21 [weight=0.9983397313090471]
+	node20 -- node22 [weight=0.5231386839871699]
+	node20 -- node23 [weight=0.6210278521255184]
+	node20 -- node24 [weight=0.6292631498952285]
+	node20 -- node25 [weight=0.6317525025588813]
+	node20 -- node26 [weight=0.540426254113812]
+	node20 -- node27 [weight=0.7387249973930358]
+	node20 -- node28 [weight=0.5853460615624589]
+	node20 -- node29 [weight=0.7110900480178262]
+	node20 -- node33 [weight=0.5617981980796309]
+	node20 -- node34 [weight=0.5249384367354961]
+	node20 -- node38 [weight=0.5265500351664536]
+	node20 -- node39 [weight=0.5319126850120198]
+	node20 -- node40 [weight=0.5310244792217723]
+	node20 -- node41 [weight=0.527959101113921]
+	node20 -- node42 [weight=0.6455594119863023]
+	node20 -- node44 [weight=0.6982652550235089]
+	node20 -- node45 [weight=0.6980604736497167]
+	node20 -- node46 [weight=0.5526843583553762]
+	node20 -- node47 [weight=0.6789315870497065]
+	node20 -- node50 [weight=0.6770551130868023]
+	node20 -- node51 [weight=0.6887217970352372]
+	node20 -- node53 [weight=0.6826861867628711]
+	node20 -- node54 [weight=0.6127067914820195]
+	node20 -- node55 [weight=0.5047044612079163]
+	node20 -- node56 [weight=0.610386496410916]
+	node20 -- node57 [weight=0.6865915411689923]
+	node20 -- node58 [weight=0.6934742022088991]
+	node20 -- node59 [weight=0.5294477692372886]
+	node20 -- node60 [weight=0.5592530386668454]
+	node20 -- node61 [weight=0.6740150674943192]
+	node20 -- node62 [weight=0.523850844476449]
+	node20 -- node63 [weight=0.6833292046625397]
+	node20 -- node64 [weight=0.6051131732237083]
+	node20 -- node65 [weight=0.6193240729556494]
+	node21 -- node22 [weight=0.5256869004099336]
+	node21 -- node23 [weight=0.6173739822468226]
+	node21 -- node24 [weight=0.6275170650533216]
+	node21 -- node25 [weight=0.6302177936771035]
+	node21 -- node26 [weight=0.5403548752074382]
+	node21 -- node27 [weight=0.7386090173543659]
+	node21 -- node28 [weight=0.5819551229548947]
+	node21 -- node29 [weight=0.712904658761671]
+	node21 -- node33 [weight=0.5571150351860005]
+	node21 -- node34 [weight=0.5273324720895166]
+	node21 -- node38 [weight=0.5229642357037546]
+	node21 -- node39 [weight=0.5313060949623736]
+	node21 -- node40 [weight=0.5274177445716024]
+	node21 -- node41 [weight=0.5243549780667947]
+	node21 -- node42 [weight=0.6443067873755932]
+	node21 -- node44 [weight=0.6977680143077425]
+	node21 -- node45 [weight=0.6968210729302442]
+	node21 -- node46 [weight=0.5487877326568801]
+	node21 -- node47 [weight=0.6790577484772756]
+	node21 -- node50 [weight=0.6738167834416959]
+	node21 -- node51 [weight=0.6862126132235832]
+	node21 -- node53 [weight=0.6811021648092689]
+	node21 -- node54 [weight=0.6096969661125947]
+	node21 -- node55 [weight=0.5030677903373657]
+	node21 -- node56 [weight=0.6070040032041589]
+	node21 -- node57 [weight=0.6858611799587984]
+	node21 -- node58 [weight=0.6916527423864479]
+	node21 -- node59 [weight=0.5282159105465386]
+	node21 -- node60 [weight=0.5573714246648246]
+	node21 -- node61 [weight=0.6714942594724868]
+	node21 -- node62 [weight=0.523961198671817]
+	node21 -- node63 [weight=0.6813303512570456]
+	node21 -- node64 [weight=0.6075419311814584]
+	node21 -- node65 [weight=0.6164308461221357]
+	node22 -- node26 [weight=0.6567075455861155]
+	node22 -- node27 [weight=0.5123474939568956]
+	node22 -- node28 [weight=0.5658340859095145]
+	node22 -- node30 [weight=0.5102992487907314]
+	node22 -- node31 [weight=0.503643107076641]
+	node22 -- node34 [weight=0.5187456553181299]
+	node22 -- node37 [weight=0.5797577697920964]
+	node22 -- node38 [weight=0.5991406788634587]
+	node22 -- node39 [weight=0.5215216019706903]
+	node22 -- node40 [weight=0.5618461838552181]
+	node22 -- node41 [weight=0.5533917337653154]
+	node22 -- node42 [weight=0.5581807735074825]
+	node22 -- node43 [weight=0.5276488539387902]
+	node22 -- node46 [weight=0.5804435819611821]
+	node23 -- node24 [weight=0.9810109270887188]
+	node23 -- node25 [weight=0.9814270779359683]
+	node23 -- node27 [weight=0.6379180493110127]
+	node23 -- node28 [weight=0.6034176776605649]
+	node23 -- node29 [weight=0.5653735547363088]
+	node23 -- node33 [weight=0.5351679025145913]
+	node23 -- node38 [weight=0.5225191934206919]
+	node23 -- node42 [weight=0.6059318047178497]
+	node23 -- node44 [weight=0.5909724671414246]
+	node23 -- node45 [weight=0.5862229284666979]
+	node23 -- node46 [weight=0.5468285912306989]
+	node23 -- node47 [weight=0.6515880824184075]
+	node23 -- node50 [weight=0.5901906748186642]
+	node23 -- node51 [weight=0.6097060030746722]
+	node23 -- node53 [weight=0.637023185759214]
+	node23 -- node54 [weight=0.5680829256551282]
+	node23 -- node56 [weight=0.5851267398457115]
+	node23 -- node57 [weight=0.6006343737615626]
+	node23 -- node58 [weight=0.6075225694703777]
+	node23 -- node61 [weight=0.5994193747291451]
+	node23 -- node63 [weight=0.6000824894207877]
+	node23 -- node65 [weight=0.6069829726013705]
+	node24 -- node25 [weight=0.9949010792871006]
+	node24 -- node26 [weight=0.5032991233445813]
+	node24 -- node27 [weight=0.6329364148670604]
+	node24 -- node28 [weight=0.5872963898409891]
+	node24 -- node29 [weight=0.5752774570220868]
+	node24 -- node33 [weight=0.5140401738139344]
+	node24 -- node38 [weight=0.5125748686089154]
+	node24 -- node42 [weight=0.5860761259485942]
+	node24 -- node44 [weight=0.5917517415230255]
+	node24 -- node45 [weight=0.5862480325642581]
+	node24 -- node46 [weight=0.5387922558434513]
+	node24 -- node47 [weight=0.6331429674045057]
+	node24 -- node50 [weight=0.5855896001998595]
+	node24 -- node51 [weight=0.6047607202243324]
+	node24 -- node53 [weight=0.6285119742261459]
+	node24 -- node54 [weight=0.54458170685663]
+	node24 -- node56 [weight=0.5679272283943028]
+	node24 -- node57 [weight=0.5836899304905234]
+	node24 -- node58 [weight=0.5783429156508815]
+	node24 -- node61 [weight=0.5780240394308491]
+	node24 -- node63 [weight=0.5834469604013788]
+	node24 -- node65 [weight=0.5953953895080998]
+	node25 -- node26 [weight=0.5059057995206239]
+	node25 -- node27 [weight=0.6388551221009626]
+	node25 -- node28 [weight=0.5928693923260465]
+	node25 -- node29 [weight=0.5745266364125534]
+	node25 -- node33 [weight=0.5117275022446215]
+	node25 -- node38 [weight=0.5161490195856202]
+	node25 -- node42 [weight=0.585373476028166]
+	node25 -- node44 [weight=0.5943360411238109]
+	node25 -- node45 [weight=0.5894652888704774]
+	node25 -- node46 [weight=0.5423799800098269]
+	node25 -- node47 [weight=0.6349132291028685]
+	node25 -- node50 [weight=0.5873959856321953]
+	node25 -- node51 [weight=0.6098761537268286]
+	node25 -- node53 [weight=0.6259593650930866]
+	node25 -- node54 [weight=0.543677519625638]
+	node25 -- node56 [weight=0.5717569537493818]
+	node25 -- node57 [weight=0.5886830126864453]
+	node25 -- node58 [weight=0.580182234578402]
+	node25 -- node61 [weight=0.5807631257917452]
+	node25 -- node63 [weight=0.5849274183735118]
+	node25 -- node65 [weight=0.5947924821862318]
+	node26 -- node27 [weight=0.6578535196726133]
+	node26 -- node28 [weight=0.8402687919990217]
+	node26 -- node29 [weight=0.5395805065029283]
+	node26 -- node30 [weight=0.7784863454518745]
+	node26 -- node31 [weight=0.7834430068183647]
+	node26 -- node32 [weight=0.7838420593776267]
+	node26 -- node34 [weight=0.6422552874991496]
+	node26 -- node35 [weight=0.7609636445123602]
+	node26 -- node37 [weight=0.6314140806882557]
+	node26 -- node38 [weight=0.7056124843105613]
+	node26 -- node39 [weight=0.6023026692237649]
+	node26 -- node40 [weight=0.6029741338522808]
+	node26 -- node41 [weight=0.6003429302433574]
+	node26 -- node43 [weight=0.5512503513339957]
+	node26 -- node46 [weight=0.851971203460619]
+	node26 -- node51 [weight=0.511620000179628]
+	node27 -- node28 [weight=0.7652833390457563]
+	node27 -- node29 [weight=0.7420974887451874]
+	node27 -- node30 [weight=0.5631447643863808]
+	node27 -- node31 [weight=0.542296217931611]
+	node27 -- node32 [weight=0.5413823034708866]
+	node27 -- node33 [weight=0.6874292344764462]
+	node27 -- node34 [weight=0.6308205170293506]
+	node27 -- node35 [weight=0.5223868873160654]
+	node27 -- node36 [weight=0.5285818494789406]
+	node27 -- node38 [weight=0.6653932903511884]
+	node27 -- node39 [weight=0.6529609808901264]
+	node27 -- node40 [weight=0.6081549198781114]
+	node27 -- node41 [weight=0.6057602759462389]
+	node27 -- node42 [weight=0.6769426415497137]
+	node27 -- node43 [weight=0.5461100001581046]
+	node27 -- node44 [weight=0.7912640228795903]
+	node27 -- node45 [weight=0.7900774692024247]
+	node27 -- node46 [weight=0.7154522289705474]
+	node27 -- node47 [weight=0.7541615743354069]
+	node27 -- node50 [weight=0.7187269696684527]
+	node27 -- node51 [weight=0.7492348990872626]
+	node27 -- node53 [weight=0.7398037371362216]
+	node27 -- node54 [weight=0.7058428272023404]
+	node27 -- node56 [weight=0.6729250139607343]
+	node27 -- node57 [weight=0.8332837278542653]
+	node27 -- node58 [weight=0.7042676679943408]
+	node27 -- node59 [weight=0.5317650045339128]
+	node27 -- node60 [weight=0.5774304531671941]
+	node27 -- node61 [weight=0.7172430689265187]
+	node27 -- node62 [weight=0.5722109026204005]
+	node27 -- node63 [weight=0.6993762718638968]
+	node27 -- node64 [weight=0.591208104193066]
+	node27 -- node65 [weight=0.7441168086653582]
+	node28 -- node29 [weight=0.5848282699695667]
+	node28 -- node30 [weight=0.7328369500609253]
+	node28 -- node31 [weight=0.7128038472899682]
+	node28 -- node32 [weight=0.7048150999202983]
+	node28 -- node33 [weight=0.53880960763571]
+	node28 -- node34 [weight=0.6714738785122611]
+	node28 -- node35 [weight=0.6900599938875909]
+	node28 -- node37 [weight=0.6322882070857337]
+	node28 -- node38 [weight=0.8239522205592272]
+	node28 -- node39 [weight=0.6967795828461976]
+	node28 -- node40 [weight=0.6487496343749937]
+	node28 -- node41 [weight=0.646789770105709]
+	node28 -- node42 [weight=0.5382731887150075]
+	node28 -- node43 [weight=0.6155581015641057]
+	node28 -- node44 [weight=0.6056886518556925]
+	node28 -- node45 [weight=0.6007480712837577]
+	node28 -- node46 [weight=0.9070201580538274]
+	node28 -- node47 [weight=0.5486954411351417]
+	node28 -- node50 [weight=0.5799735856564301]
+	node28 -- node51 [weight=0.6206015665047772]
+	node28 -- node53 [weight=0.5823705730292249]
+	node28 -- node54 [weight=0.5668013741383953]
+	node28 -- node57 [weight=0.5977701369551776]
+	node28 -- node61 [weight=0.5121395451330459]
+	node28 -- node65 [weight=0.5085427994483761]
+	node29 -- node33 [weight=0.5773648391577321]
+	node29 -- node34 [weight=0.5149960948027148]
+	node29 -- node36 [weight=0.5467800064797961]
+	node29 -- node38 [weight=0.5190520450369229]
+	node29 -- node39 [weight=0.5258001169996994]
+	node29 -- node40 [weight=0.5288890112546587]
+	node29 -- node41 [weight=0.524543703333255]
+	node29 -- node42 [weight=0.6188624610749636]
+	node29 -- node44 [weight=0.7322160604260325]
+	node29 -- node45 [weight=0.7354159299240467]
+	node29 -- node46 [weight=0.5548825737479961]
+	node29 -- node47 [weight=0.714448225466691]
+	node29 -- node50 [weight=0.6687766479852177]
+	node29 -- node51 [weight=0.7075529469323996]
+	node29 -- node53 [weight=0.6818152638046449]
+	node29 -- node54 [weight=0.6775293240095678]
+	node29 -- node56 [weight=0.6398594489921821]
+	node29 -- node57 [weight=0.7392427521665625]
+	node29 -- node58 [weight=0.6959874757343005]
+	node29 -- node59 [weight=0.5037048068392738]
+	node29 -- node60 [weight=0.5336405771219733]
+	node29 -- node61 [weight=0.7042509575362588]
+	node29 -- node62 [weight=0.5925450423511103]
+	node29 -- node63 [weight=0.698588912110727]
+	node29 -- node64 [weight=0.6089320677462559]
+	node29 -- node65 [weight=0.6570215913423373]
+	node30 -- node31 [weight=0.9234761961345976]
+	node30 -- node32 [weight=0.911647834201826]
+	node30 -- node34 [weight=0.6291700415601648]
+	node30 -- node35 [weight=0.9078411720741247]
+	node30 -- node37 [weight=0.6243149472086601]
+	node30 -- node38 [weight=0.7033130555924697]
+	node30 -- node39 [weight=0.5644840817895763]
+	node30 -- node40 [weight=0.541172049228249]
+	node30 -- node41 [weight=0.5417166617901005]
+	node30 -- node43 [weight=0.5436755595270553]
+	node30 -- node46 [weight=0.8746186258542672]
+	node30 -- node50 [weight=0.5061517682067336]
+	node30 -- node51 [weight=0.5146772454965185]
+	node31 -- node32 [weight=0.9522717922892734]
+	node31 -- node34 [weight=0.6165920867580731]
+	node31 -- node35 [weight=0.9333572619500451]
+	node31 -- node37 [weight=0.6315926247967911]
+	node31 -- node38 [weight=0.7002158816828196]
+	node31 -- node39 [weight=0.5841988002629588]
+	node31 -- node40 [weight=0.5425073903495363]
+	node31 -- node41 [weight=0.5416671084656978]
+	node31 -- node43 [weight=0.5273471822716712]
+	node31 -- node46 [weight=0.868303446931599]
+	node31 -- node50 [weight=0.5057037015022283]
+	node31 -- node51 [weight=0.5144295664782783]
+	node32 -- node34 [weight=0.6090616410989771]
+	node32 -- node35 [weight=0.9530733089680056]
+	node32 -- node37 [weight=0.6198488199412481]
+	node32 -- node38 [weight=0.6727511845650571]
+	node32 -- node39 [weight=0.5666892790878894]
+	node32 -- node40 [weight=0.5515132613330637]
+	node32 -- node41 [weight=0.5514729921213665]
+	node32 -- node43 [weight=0.5139152949738419]
+	node32 -- node46 [weight=0.8669900029318313]
+	node32 -- node51 [weight=0.5111316482083677]
+	node33 -- node34 [weight=0.5005946608373311]
+	node33 -- node38 [weight=0.5626543152978103]
+	node33 -- node39 [weight=0.5974127472162114]
+	node33 -- node42 [weight=0.5200911870091836]
+	node33 -- node44 [weight=0.5638036178663192]
+	node33 -- node45 [weight=0.5635242484236167]
+	node33 -- node46 [weight=0.529771385189982]
+	node33 -- node47 [weight=0.5782021187927823]
+	node33 -- node50 [weight=0.6265202006177364]
+	node33 -- node51 [weight=0.5477280741011293]
+	node33 -- node53 [weight=0.5756193639483663]
+	node33 -- node54 [weight=0.5209002614241294]
+	node33 -- node56 [weight=0.5173847961925877]
+	node33 -- node57 [weight=0.619079871380392]
+	node33 -- node58 [weight=0.5683170498023671]
+	node33 -- node61 [weight=0.591210683966457]
+	node33 -- node65 [weight=0.6469707218797368]
+	node34 -- node35 [weight=0.5828599592600942]
+	node34 -- node37 [weight=0.7695787862345586]
+	node34 -- node38 [weight=0.7919717538886156]
+	node34 -- node39 [weight=0.6551397621327336]
+	node34 -- node40 [weight=0.729767277707156]
+	node34 -- node41 [weight=0.7286834062841201]
+	node34 -- node42 [weight=0.5482905880916367]
+	node34 -- node43 [weight=0.9025310071340288]
+	node34 -- node44 [weight=0.5494600870158618]
+	node34 -- node45 [weight=0.5564064623533814]
+	node34 -- node46 [weight=0.6963659369868446]
+	node34 -- node50 [weight=0.5770850730494496]
+	node34 -- node51 [weight=0.589705693612131]
+	node34 -- node53 [weight=0.5661745702751109]
+	node34 -- node54 [weight=0.5200663804670667]
+	node34 -- node57 [weight=0.5833041518436556]
+	node34 -- node61 [weight=0.5111244259426487]
+	node35 -- node37 [weight=0.6202769763558026]
+	node35 -- node38 [weight=0.6770637045764027]
+	node35 -- node39 [weight=0.570922749082655]
+	node35 -- node40 [weight=0.5304519425281884]
+	node35 -- node41 [weight=0.5313929309573404]
+	node35 -- node46 [weight=0.8577111989183661]
+	node35 -- node51 [weight=0.5009880366299752]
+	node36 -- node42 [weight=0.5127159824780807]
+	node36 -- node44 [weight=0.5066599337685793]
+	node36 -- node45 [weight=0.5112540611514026]
+	node36 -- node47 [weight=0.5355023524035663]
+	node36 -- node51 [weight=0.5297956187088654]
+	node36 -- node53 [weight=0.5357218376954663]
+	node36 -- node56 [weight=0.5242227842272786]
+	node36 -- node57 [weight=0.5414058267169383]
+	node36 -- node58 [weight=0.5454360070306605]
+	node36 -- node61 [weight=0.5490082920643728]
+	node36 -- node63 [weight=0.5160270112692483]
+	node36 -- node65 [weight=0.5338272336040187]
+	node37 -- node38 [weight=0.7926664326331552]
+	node37 -- node39 [weight=0.657970822135396]
+	node37 -- node40 [weight=0.84297242040182]
+	node37 -- node41 [weight=0.8381827902970781]
+	node37 -- node42 [weight=0.5026962304050231]
+	node37 -- node43 [weight=0.8809921358177877]
+	node37 -- node46 [weight=0.679260754919133]
+	node37 -- node50 [weight=0.5090301231964227]
+	node37 -- node51 [weight=0.5302813783054064]
+	node37 -- node53 [weight=0.5172064119997768]
+	node38 -- node39 [weight=0.7878646762342132]
+	node38 -- node40 [weight=0.7621852594410363]
+	node38 -- node41 [weight=0.7584313586327094]
+	node38 -- node42 [weight=0.5874503290262891]
+	node38 -- node43 [weight=0.7191238007850889]
+	node38 -- node44 [weight=0.547509433262108]
+	node38 -- node45 [weight=0.5482654458133589]
+	node38 -- node46 [weight=0.8261643260247433]
+	node38 -- node47 [weight=0.5205858199404414]
+	node38 -- node50 [weight=0.5811435196946829]
+	node38 -- node51 [weight=0.5977766849154048]
+	node38 -- node53 [weight=0.6237770313005153]
+	node38 -- node54 [weight=0.5407498716030753]
+	node38 -- node56 [weight=0.5014231741494742]
+	node38 -- node57 [weight=0.5735914245173694]
+	node38 -- node61 [weight=0.5296150533731384]
+	node38 -- node65 [weight=0.5129027173792153]
+	node39 -- node40 [weight=0.7431375227572825]
+	node39 -- node41 [weight=0.7394187990954323]
+	node39 -- node42 [weight=0.6219006983178024]
+	node39 -- node43 [weight=0.6262640653606748]
+	node39 -- node44 [weight=0.581048433406001]
+	node39 -- node45 [weight=0.5782536065946731]
+	node39 -- node46 [weight=0.6915777465623517]
+	node39 -- node47 [weight=0.5794765929804062]
+	node39 -- node50 [weight=0.5978236730568354]
+	node39 -- node51 [weight=0.6463771639355661]
+	node39 -- node53 [weight=0.6251355994941777]
+	node39 -- node54 [weight=0.5831690846805835]
+	node39 -- node56 [weight=0.517272106529831]
+	node39 -- node57 [weight=0.6110035756686725]
+	node39 -- node58 [weight=0.5071414512222973]
+	node39 -- node61 [weight=0.5809887119377201]
+	node39 -- node65 [weight=0.5710764872229481]
+	node40 -- node41 [weight=0.9973981236197478]
+	node40 -- node42 [weight=0.6451654153566156]
+	node40 -- node43 [weight=0.8178945260407873]
+	node40 -- node44 [weight=0.6034102622175047]
+	node40 -- node45 [weight=0.6034586165715129]
+	node40 -- node46 [weight=0.6571663158131003]
+	node40 -- node47 [weight=0.561081011015388]
+	node40 -- node50 [weight=0.6029843675800632]
+	node40 -- node51 [weight=0.6497749846733695]
+	node40 -- node52 [weight=0.5031463792257588]
+	node40 -- node53 [weight=0.678914139327143]
+	node40 -- node54 [weight=0.5618626001722559]
+	node40 -- node56 [weight=0.5111318776900348]
+	node40 -- node57 [weight=0.6314312376791554]
+	node40 -- node58 [weight=0.5300512684952966]
+	node40 -- node60 [weight=0.5049821579048616]
+	node40 -- node61 [weight=0.5896108180316386]
+	node40 -- node63 [weight=0.5337024390255776]
+	node40 -- node65 [weight=0.5488864664890778]
+	node41 -- node42 [weight=0.6469571112861592]
+	node41 -- node43 [weight=0.8171166856538236]
+	node41 -- node44 [weight=0.6039071090256831]
+	node41 -- node45 [weight=0.6037406656143011]
+	node41 -- node46 [weight=0.6557806732454846]
+	node41 -- node47 [weight=0.560125086547118]
+	node41 -- node50 [weight=0.6035472339573829]
+	node41 -- node51 [weight=0.651046486802161]
+	node41 -- node52 [weight=0.5022584516971594]
+	node41 -- node53 [weight=0.675168771744634]
+	node41 -- node54 [weight=0.5638622634282916]
+	node41 -- node56 [weight=0.5126382919754117]
+	node41 -- node57 [weight=0.6311455362474412]
+	node41 -- node58 [weight=0.5292168226672281]
+	node41 -- node61 [weight=0.5886294015008565]
+	node41 -- node63 [weight=0.5328917175078496]
+	node41 -- node65 [weight=0.5461812502634977]
+	node42 -- node43 [weight=0.5471457422844035]
+	node42 -- node44 [weight=0.7071701850586956]
+	node42 -- node45 [weight=0.7087193153767672]
+	node42 -- node46 [weight=0.5079043285102867]
+	node42 -- node47 [weight=0.7998185421120904]
+	node42 -- node50 [weight=0.6193146156571259]
+	node42 -- node51 [weight=0.7551260187877102]
+	node42 -- node52 [weight=0.530873622509455]
+	node42 -- node53 [weight=0.8136155320240138]
+	node42 -- node54 [weight=0.7581646486808886]
+	node42 -- node55 [weight=0.5508542644551611]
+	node42 -- node56 [weight=0.7635952841252179]
+	node42 -- node57 [weight=0.7501451549983925]
+	node42 -- node58 [weight=0.7615141588890382]
+	node42 -- node59 [weight=0.5967174539357131]
+	node42 -- node60 [weight=0.6607312571934162]
+	node42 -- node61 [weight=0.7959908006147619]
+	node42 -- node62 [weight=0.6054715281545551]
+	node42 -- node63 [weight=0.7877023245555802]
+	node42 -- node64 [weight=0.5893649780975456]
+	node42 -- node65 [weight=0.7258462725162445]
+	node43 -- node44 [weight=0.5059470980074768]
+	node43 -- node45 [weight=0.5126382101865823]
+	node43 -- node46 [weight=0.6310888736465115]
+	node43 -- node50 [weight=0.5609741999857445]
+	node43 -- node51 [weight=0.5661046382280963]
+	node43 -- node52 [weight=0.5047571065396692]
+	node43 -- node53 [weight=0.5697865167651931]
+	node43 -- node57 [weight=0.532902900687465]
+	node43 -- node61 [weight=0.5026609842884358]
+	node44 -- node45 [weight=0.9967840561607572]
+	node44 -- node46 [weight=0.5913374012216913]
+	node44 -- node47 [weight=0.8424491442392416]
+	node44 -- node50 [weight=0.6653869685212433]
+	node44 -- node51 [weight=0.7908259855971085]
+	node44 -- node53 [weight=0.7308926016939085]
+	node44 -- node54 [weight=0.7097325696334995]
+	node44 -- node56 [weight=0.710873802130682]
+	node44 -- node57 [weight=0.8202050199228633]
+	node44 -- node58 [weight=0.7648164932350119]
+	node44 -- node59 [weight=0.57604071022602]
+	node44 -- node60 [weight=0.6047155863180704]
+	node44 -- node61 [weight=0.7337981571955738]
+	node44 -- node62 [weight=0.6050968736285065]
+	node44 -- node63 [weight=0.778560474754871]
+	node44 -- node64 [weight=0.5981155864514959]
+	node44 -- node65 [weight=0.747420506324537]
+	node45 -- node46 [weight=0.588780213084471]
+	node45 -- node47 [weight=0.8406748395048311]
+	node45 -- node50 [weight=0.6622730307351845]
+	node45 -- node51 [weight=0.7872816022044666]
+	node45 -- node53 [weight=0.7327504924813644]
+	node45 -- node54 [weight=0.7062325925548963]
+	node45 -- node55 [weight=0.5023644256087719]
+	node45 -- node56 [weight=0.7114674648804871]
+	node45 -- node57 [weight=0.8170013041135632]
+	node45 -- node58 [weight=0.769069814049214]
+	node45 -- node59 [weight=0.5811701287115729]
+	node45 -- node60 [weight=0.6096354910493827]
+	node45 -- node61 [weight=0.7376656583560997]
+	node45 -- node62 [weight=0.6044361020963309]
+	node45 -- node63 [weight=0.7795168514196413]
+	node45 -- node64 [weight=0.5953083836159136]
+	node45 -- node65 [weight=0.7464815715380942]
+	node46 -- node47 [weight=0.503504473074073]
+	node46 -- node50 [weight=0.5990891794967634]
+	node46 -- node51 [weight=0.6337602006671788]
+	node46 -- node53 [weight=0.5357696408340928]
+	node46 -- node54 [weight=0.5644336617518385]
+	node46 -- node57 [weight=0.5778065755083406]
+	node46 -- node64 [weight=0.5498869007314582]
+	node47 -- node50 [weight=0.6783554985066373]
+	node47 -- node51 [weight=0.803008779940449]
+	node47 -- node53 [weight=0.8180033533238916]
+	node47 -- node54 [weight=0.7826667909953132]
+	node47 -- node55 [weight=0.5933563168953275]
+	node47 -- node56 [weight=0.8215405217580786]
+	node47 -- node57 [weight=0.8369425790055581]
+	node47 -- node58 [weight=0.8803220471874696]
+	node47 -- node59 [weight=0.6571928403920538]
+	node47 -- node60 [weight=0.7189304436109824]
+	node47 -- node61 [weight=0.871134893634831]
+	node47 -- node62 [weight=0.6938597042738537]
+	node47 -- node63 [weight=0.9083539757731631]
+	node47 -- node64 [weight=0.6589523836049479]
+	node47 -- node65 [weight=0.820913413512381]
+	node48 -- node49 [weight=0.9186512104311482]
+	node50 -- node51 [weight=0.66462292861434]
+	node50 -- node53 [weight=0.664928177864366]
+	node50 -- node54 [weight=0.6164997324873773]
+	node50 -- node56 [weight=0.5735168920184454]
+	node50 -- node57 [weight=0.6416635255221143]
+	node50 -- node58 [weight=0.5912778745952657]
+	node50 -- node59 [weight=0.5389875600555932]
+	node50 -- node60 [weight=0.5879340628323901]
+	node50 -- node61 [weight=0.6628039323662972]
+	node50 -- node62 [weight=0.5433764399048]
+	node50 -- node63 [weight=0.5765230997182804]
+	node50 -- node64 [weight=0.6220270260618225]
+	node50 -- node65 [weight=0.6341024521211255]
+	node51 -- node53 [weight=0.7278654179019651]
+	node51 -- node54 [weight=0.7333119569951341]
+	node51 -- node55 [weight=0.5071450955316832]
+	node51 -- node56 [weight=0.7045978522758368]
+	node51 -- node57 [weight=0.850626718777198]
+	node51 -- node58 [weight=0.7529995281455075]
+	node51 -- node59 [weight=0.5969990514051683]
+	node51 -- node60 [weight=0.628679654120596]
+	node51 -- node61 [weight=0.738971239490484]
+	node51 -- node62 [weight=0.6281333252261917]
+	node51 -- node63 [weight=0.7898932403638843]
+	node51 -- node64 [weight=0.6260326346141591]
+	node51 -- node65 [weight=0.6636107062829035]
+	node52 -- node53 [weight=0.5181401765698783]
+	node52 -- node55 [weight=0.6452208666299435]
+	node52 -- node56 [weight=0.6096140758140397]
+	node52 -- node58 [weight=0.5929538917911836]
+	node52 -- node59 [weight=0.6565312298521925]
+	node52 -- node60 [weight=0.6708220804058691]
+	node52 -- node61 [weight=0.6354779947290011]
+	node52 -- node63 [weight=0.5655981077302957]
+	node53 -- node54 [weight=0.7590542242145448]
+	node53 -- node55 [weight=0.5624592066881077]
+	node53 -- node56 [weight=0.7368739543206461]
+	node53 -- node57 [weight=0.7992231165661383]
+	node53 -- node58 [weight=0.7964023196026332]
+	node53 -- node59 [weight=0.5759490738187328]
+	node53 -- node60 [weight=0.6535289197637686]
+	node53 -- node61 [weight=0.8072120941500361]
+	node53 -- node62 [weight=0.6329711514917041]
+	node53 -- node63 [weight=0.794347607154263]
+	node53 -- node64 [weight=0.604510251772621]
+	node53 -- node65 [weight=0.7695197439312951]
+	node54 -- node55 [weight=0.5418321714190723]
+	node54 -- node56 [weight=0.7381573798937214]
+	node54 -- node57 [weight=0.8028517574718395]
+	node54 -- node58 [weight=0.7134683507042463]
+	node54 -- node59 [weight=0.5336526289586883]
+	node54 -- node60 [weight=0.6043982418815037]
+	node54 -- node61 [weight=0.7538749126404238]
+	node54 -- node62 [weight=0.6411232435375176]
+	node54 -- node63 [weight=0.7704464665812514]
+	node54 -- node64 [weight=0.6444546775009008]
+	node54 -- node65 [weight=0.6843547596319716]
+	node55 -- node56 [weight=0.6826209393145246]
+	node55 -- node57 [weight=0.5214492418635482]
+	node55 -- node58 [weight=0.7161553656072297]
+	node55 -- node59 [weight=0.6974054536739278]
+	node55 -- node60 [weight=0.7048283488514534]
+	node55 -- node61 [weight=0.7040383468016157]
+	node55 -- node63 [weight=0.693387540455131]
+	node55 -- node64 [weight=0.51091615612065]
+	node55 -- node65 [weight=0.5155558656627809]
+	node56 -- node57 [weight=0.7405822043107112]
+	node56 -- node58 [weight=0.8425135194044593]
+	node56 -- node59 [weight=0.7187519273039186]
+	node56 -- node60 [weight=0.7625599368007928]
+	node56 -- node61 [weight=0.869852129514835]
+	node56 -- node62 [weight=0.5925537068460629]
+	node56 -- node63 [weight=0.8505075992975821]
+	node56 -- node64 [weight=0.5490513783603858]
+	node56 -- node65 [weight=0.7279952944706066]
+	node57 -- node58 [weight=0.8047872449261135]
+	node57 -- node59 [weight=0.5571624154930638]
+	node57 -- node60 [weight=0.6052884496877672]
+	node57 -- node61 [weight=0.7955147196628501]
+	node57 -- node62 [weight=0.6810942394549013]
+	node57 -- node63 [weight=0.8356849769104288]
+	node57 -- node64 [weight=0.6167174003000817]
+	node57 -- node65 [weight=0.7521315666203219]
+	node58 -- node59 [weight=0.733008849322266]
+	node58 -- node60 [weight=0.7830161350905225]
+	node58 -- node61 [weight=0.8940581243535388]
+	node58 -- node62 [weight=0.6279446721836602]
+	node58 -- node63 [weight=0.9052699063679189]
+	node58 -- node64 [weight=0.6108003777305265]
+	node58 -- node65 [weight=0.7792151727663102]
+	node59 -- node60 [weight=0.9712350873136514]
+	node59 -- node61 [weight=0.7702334497351708]
+	node59 -- node63 [weight=0.7197940528033948]
+	node59 -- node65 [weight=0.593649579891224]
+	node60 -- node61 [weight=0.8138798695867268]
+	node60 -- node63 [weight=0.7656038319811727]
+	node60 -- node64 [weight=0.5150086328196278]
+	node60 -- node65 [weight=0.6646279661969503]
+	node61 -- node62 [weight=0.6663977378477561]
+	node61 -- node63 [weight=0.8999912914546517]
+	node61 -- node64 [weight=0.622412537159539]
+	node61 -- node65 [weight=0.7929002756742319]
+	node62 -- node63 [weight=0.7021145824204267]
+	node62 -- node64 [weight=0.6375870638545681]
+	node62 -- node65 [weight=0.5368475423542002]
+	node63 -- node64 [weight=0.6239992380114371]
+	node63 -- node65 [weight=0.7607135791344689]
+	node64 -- node65 [weight=0.5203402013719151]
+}
