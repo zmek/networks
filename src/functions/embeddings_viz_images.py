@@ -1,14 +1,16 @@
 import numpy as np
 from sklearn.manifold import TSNE
 import graphviz as gv
-from PIL import Image
 
 
 def reduce_and_draw_network_map_with_images(
-    embeddings, image_folder, handle_isolates=True
+    embeddings,
+    image_folder,
+    _filename,
+    handle_isolates=True,
 ):
     # Perform t-SNE to reduce the embeddings to 2 dimensions
-    tsne = TSNE(n_components=2, random_state=42)
+    tsne = TSNE(n_components=2, random_state=42, perplexity=5)
     embeddings_2d = tsne.fit_transform(embeddings)
 
     # Find isolated nodes if requested
@@ -32,7 +34,7 @@ def reduce_and_draw_network_map_with_images(
             c.attr(label=f"{i}")
             c.attr(fontsize="10")
             c.attr(style="filled")
-            c.attr(color="white")
+            c.attr(color="black")
             c.node(f"node{i}", image=img_path, shape="none", label="")
 
             # Set position of cluster
@@ -51,5 +53,5 @@ def reduce_and_draw_network_map_with_images(
                 graph.edge(f"node{i}", f"node{j}", weight=str(similarity))
 
     # Draw the network map
-    graph.format = "png"
-    graph.render(filename="network_map_with_images 3")
+    graph.format = "pdf"
+    graph.render(filename=_filename)
