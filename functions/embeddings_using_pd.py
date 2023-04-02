@@ -29,6 +29,9 @@ def get_word_embeddings(filename, model_path):
         for i, word in enumerate(words):
             if word in model_dict:
                 embeddings[i] = model_dict[word]
-        embeddings_list.append(embeddings)
 
-    return embeddings
+        # Calculate the mean embedding for the block
+        mean_embedding = np.mean(embeddings, axis=0)
+        embeddings_list.append(mean_embedding)
+
+    return np.array(embeddings_list)
